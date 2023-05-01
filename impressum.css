@@ -1,0 +1,40 @@
+/*
+body{
+    background-color: var(--secondary-color);
+    color: var(--light-secondary-color);
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    width: 350px;
+    max-width: calc(90% - 40px);
+    background-color: var(--secondary-color);
+    border-radius: 10px;
+    padding: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+*/
+.back_container{
+    justify-content: center;
+    flex: center;
+    width: 15em;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+.header_text{
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
